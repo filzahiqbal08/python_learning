@@ -1,6 +1,0 @@
-while True:
-    print('type exit to exit')
-    res = input('>')
-    if res == 'exit':
-        break
-    print('you typed ' + res + '.')
